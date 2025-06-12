@@ -13,7 +13,7 @@
 
 ## Project Introduction
 
-[flair](https://github.com/flairNLP/flair) Flair is an open-source natural language processing (NLP) framework designed to provide researchers with a flexible and efficient toolset for various text analysis tasks. This product offers an out-of-the-box Flair solution based on the arm architecture of the Huawei Cloud EulerOS 2.0 64-bit system.
+[flair](https://github.com/flairNLP/flair) is an open-source natural language processing (NLP) framework designed to provide researchers with a flexible and efficient toolset for various text analysis tasks. This product offers an out-of-the-box Flair solution based on the arm architecture of the Huawei Cloud EulerOS 2.0 64-bit system.
 
 ## Key Features
 
@@ -35,7 +35,7 @@ The open-source image product [**Flair Natural Language Processing Tool**](https
 
 | Image Specification                                                                                     | Feature Description | Remarks |
 |-------------------------------------------------------------------------------------------------------| --- | --- |
-| [Flair0.15.1-arm-v1.0](https://github.com/HuaweiCloudDeveloper/flair-image/tree/Flair0.15.1-arm-v1.0) | Installed and deployed based on Kunpeng servers + Huawei Cloud EulerOS 2.0 64-bit |  |
+| [Flair0.15.1-arm-v1.0](https://marketplace.huaweicloud.com/hidden/contents/d603cf33-1c2d-4824-8082-c7b16d0045ac?ticket=ST-8498869-6tBmB3EjFGiJXaGfoTDKTQdD-sso#productid=OFFI1121281251575148544) | Installed and deployed based on Kunpeng servers + Huawei Cloud EulerOS 2.0 64-bit |  |
 
 ## Getting Help
 - For more questions, you can contact us via [issues](https://github.com/HuaweiCloudDeveloper/flair-image/issues) or the service support of the specified product in the Huawei Cloud Marketplace.
