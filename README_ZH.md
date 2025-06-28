@@ -22,7 +22,7 @@
 - **一个文本嵌入库** Flair具有简单的接口，允许您使用和组合不同的单词和文档嵌入，包括我们提出的Flair嵌入和各种转换器。
 - **PyTorch NLP框架** 我们的框架直接构建在PyTorch上，可以很容易地训练自己的模型，并使用Flair嵌入和类尝试新的方法。
 
-本项目提供的开源镜像商品 [**flair自然语言处理工具**](https://marketplace.huaweicloud.com/hidden/contents/d603cf33-1c2d-4824-8082-c7b16d0045ac#productid=OFFI1121281251575148544) 已预先安装Flair v0.15.1及其相关运行环境，并提供部署模板。快来参照使用指南，轻松开启“开箱即用”的高效体验吧。
+本项目提供的开源镜像商品 [**flair自然语言处理工具**](https://marketplace.huaweicloud.com/contents/d603cf33-1c2d-4824-8082-c7b16d0045ac#productid=OFFI1121281251575148544) 已预先安装Flair v0.15.1及其相关运行环境，并提供部署模板。快来参照使用指南，轻松开启“开箱即用”的高效体验吧。
 
 
 > **系统要求如下：**
@@ -35,9 +35,9 @@
 
 ## 镜像说明
 
-| 镜像规格                                                                                                  | 特性说明 | 备注 |
-|-------------------------------------------------------------------------------------------------------| --- | --- |
-| [Flair0.15.1-arm-v1.0](https://marketplace.huaweicloud.com/hidden/contents/d603cf33-1c2d-4824-8082-c7b16d0045ac?ticket=ST-8498869-6tBmB3EjFGiJXaGfoTDKTQdD-sso#productid=OFFI1121281251575148544) | 基于鲲鹏服务器 + Huawei Cloud EulerOS 2.0 64bit 安装部署 |  |
+| 镜像规格                                                                         | 特性说明 | 备注 |
+|------------------------------------------------------------------------------| --- | --- |
+| [Flair-0.15.1-kunpeng](https://github.com/HuaweiCloudDeveloper/flair-image/tree/Flair-0.15.1-kunpeng) | 基于鲲鹏服务器 + Huawei Cloud EulerOS 2.0 64bit 安装部署 |  |
 
 ## 获取帮助
 - 更多问题可通过 [issue](https://github.com/HuaweiCloudDeveloper/flair-image/issues) 或 华为云云商店指定商品的服务支持 与我们取得联系

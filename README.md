@@ -21,7 +21,7 @@
 - **A Text Embedding Library** Flair has a simple interface that allows you to use and combine different word and document embeddings, including our proposed Flair embeddings and various transformers.
 - **A PyTorch NLP Framework** Our framework is directly built on PyTorch, making it easy to train your own models and experiment with new approaches using Flair embeddings and classes.
 
-The open-source image product [**Flair Natural Language Processing Tool**](https://marketplace.huaweicloud.com/hidden/contents/d603cf33-1c2d-4824-8082-c7b16d0045ac#productid=OFFI1121281251575148544) provided by this project has Flair v0.15.1 and its related runtime environment pre-installed and also offers deployment templates. Refer to the usage guide and start your efficient "out-of-the-box" experience now!
+The open-source image product [**Flair Natural Language Processing Tool**](https://marketplace.huaweicloud.com/intl/hidden/contents/a89da69c-28f1-41ec-bd37-7b056c927389) provided by this project has Flair v0.15.1 and its related runtime environment pre-installed and also offers deployment templates. Refer to the usage guide and start your efficient "out-of-the-box" experience now!
 
 > **System requirements are as follows:**
 > - CPU: 2vCPUs or higher
@@ -35,7 +35,7 @@ The open-source image product [**Flair Natural Language Processing Tool**](https
 
 | Image Specification                                                                                     | Feature Description | Remarks |
 |-------------------------------------------------------------------------------------------------------| --- | --- |
-| [Flair0.15.1-arm-v1.0](https://marketplace.huaweicloud.com/hidden/contents/d603cf33-1c2d-4824-8082-c7b16d0045ac?ticket=ST-8498869-6tBmB3EjFGiJXaGfoTDKTQdD-sso#productid=OFFI1121281251575148544) | Installed and deployed based on Kunpeng servers + Huawei Cloud EulerOS 2.0 64-bit |  |
+| [Flair0.15.1-arm-v1.0](https://github.com/HuaweiCloudDeveloper/flair-image/tree/Flair-0.15.1-kunpeng) | Installed and deployed based on Kunpeng servers + Huawei Cloud EulerOS 2.0 64-bit |  |
 
 ## Getting Help
 - For more questions, you can contact us via [issues](https://github.com/HuaweiCloudDeveloper/flair-image/issues) or the service support of the specified product in the Huawei Cloud Marketplace.
