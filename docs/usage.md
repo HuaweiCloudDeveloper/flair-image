@@ -2,7 +2,7 @@
 
 # 一、商品链接
 
-[flair自然语言处理工具](https://marketplace.huaweicloud.com/hidden/contents/d603cf33-1c2d-4824-8082-c7b16d0045ac?ticket=ST-8498869-6tBmB3EjFGiJXaGfoTDKTQdD-sso#productid=OFFI1121281251575148544)
+[flair自然语言处理工具](https://marketplace.huaweicloud.com/contents/d603cf33-1c2d-4824-8082-c7b16d0045ac?ticket=ST-8498869-6tBmB3EjFGiJXaGfoTDKTQdD-sso#productid=OFFI1121281251575148544)
 
 # 二、商品说明
 
