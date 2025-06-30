@@ -35,7 +35,7 @@ The open-source image product [**Flair Natural Language Processing Tool**](https
 
 | Image Specification                                                                                     | Feature Description | Remarks |
 |-------------------------------------------------------------------------------------------------------| --- | --- |
-| [Flair0.15.1-arm-v1.0](https://github.com/HuaweiCloudDeveloper/flair-image/tree/Flair-0.15.1-kunpeng) | Installed and deployed based on Kunpeng servers + Huawei Cloud EulerOS 2.0 64-bit |  |
+| [Flair-0.15.1-kunpeng](https://github.com/HuaweiCloudDeveloper/flair-image/tree/Flair-0.15.1-kunpeng) | Installed and deployed based on Kunpeng servers + Huawei Cloud EulerOS 2.0 64-bit |  |
 
 ## Getting Help
 - For more questions, you can contact us via [issues](https://github.com/HuaweiCloudDeveloper/flair-image/issues) or the service support of the specified product in the Huawei Cloud Marketplace.
